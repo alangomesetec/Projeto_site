@@ -1,2 +1,2 @@
-https://github.com/alangomesetec/Projeto_site
+https://alangomesetec.github.io/Projeto_site2/
 # Projeto_segundo_site
